@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: #0253cc;
+    color: white;
+}
+.fa-solid {
+    color: white;
+}
+main {
+    color: black;
+}
+.fa-grip-lines {
+    color: black;
+}
